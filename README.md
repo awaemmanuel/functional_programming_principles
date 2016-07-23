@@ -1,2 +1,2 @@
-# functional_programming_principles
+# Functional Programming Principles
 My work in the Coursera Functional Programming Principles...
